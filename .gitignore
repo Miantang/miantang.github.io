@@ -1,0 +1,15 @@
+phpmyadmin
+
+*.md~
+
+*.php~
+
+*.html~
+
+*.js~
+*.bak
+
+.idea
+.gitignore~
+
+.idea
