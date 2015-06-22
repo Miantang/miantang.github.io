@@ -1,17 +1,15 @@
-# Web Front-End Developer and Comment Arter
----------------------
+## Web Front-End Developer and Comment Arter
 
 <http://ppii.in>
 
-#Blog Source Code
----------------------
+##Blog Source Code
 
 <https://github.com/Miantang/miantang.github.io>
 
-#License
-------------
+##License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">
-    <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" />
+    <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a>
     
 Blog posts: BY-NC-3.0
 
